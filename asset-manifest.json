@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.a054304e.chunk.css",
-    "main.js": "/static/js/main.9bc99b83.chunk.js",
-    "main.js.map": "/static/js/main.9bc99b83.chunk.js.map",
+    "main.css": "/static/css/main.65b086c3.chunk.css",
+    "main.js": "/static/js/main.dd7b1ca4.chunk.js",
+    "main.js.map": "/static/js/main.dd7b1ca4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.97b995ff.js",
     "runtime-main.js.map": "/static/js/runtime-main.97b995ff.js.map",
-    "static/js/2.55c6f431.chunk.js": "/static/js/2.55c6f431.chunk.js",
-    "static/js/2.55c6f431.chunk.js.map": "/static/js/2.55c6f431.chunk.js.map",
+    "static/js/2.9a5a2923.chunk.js": "/static/js/2.9a5a2923.chunk.js",
+    "static/js/2.9a5a2923.chunk.js.map": "/static/js/2.9a5a2923.chunk.js.map",
     "static/js/3.30bbba8b.chunk.js": "/static/js/3.30bbba8b.chunk.js",
     "static/js/3.30bbba8b.chunk.js.map": "/static/js/3.30bbba8b.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.a054304e.chunk.css.map": "/static/css/main.a054304e.chunk.css.map",
-    "static/js/2.55c6f431.chunk.js.LICENSE.txt": "/static/js/2.55c6f431.chunk.js.LICENSE.txt",
+    "static/css/main.65b086c3.chunk.css.map": "/static/css/main.65b086c3.chunk.css.map",
+    "static/js/2.9a5a2923.chunk.js.LICENSE.txt": "/static/js/2.9a5a2923.chunk.js.LICENSE.txt",
     "static/media/HostingCTA.a82c2634.svg": "/static/media/HostingCTA.a82c2634.svg",
     "static/media/HostingHero.8d4dbdf7.jpg": "/static/media/HostingHero.8d4dbdf7.jpg",
     "static/media/HostingHome.83aba5c3.jpg": "/static/media/HostingHome.83aba5c3.jpg",
@@ -25,12 +25,13 @@
     "static/media/TroncalSIPHome.3fb993e2.jpg": "/static/media/TroncalSIPHome.3fb993e2.jpg",
     "static/media/TroncalSip1.a73d70b6.svg": "/static/media/TroncalSip1.a73d70b6.svg",
     "static/media/TroncalSip2.0440bd16.svg": "/static/media/TroncalSip2.0440bd16.svg",
-    "static/media/TroncalSip3.ed72db71.svg": "/static/media/TroncalSip3.ed72db71.svg"
+    "static/media/TroncalSip3.ed72db71.svg": "/static/media/TroncalSip3.ed72db71.svg",
+    "static/media/VpsHome.d89dd9f6.jpg": "/static/media/VpsHome.d89dd9f6.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.97b995ff.js",
-    "static/js/2.55c6f431.chunk.js",
-    "static/css/main.a054304e.chunk.css",
-    "static/js/main.9bc99b83.chunk.js"
+    "static/js/2.9a5a2923.chunk.js",
+    "static/css/main.65b086c3.chunk.css",
+    "static/js/main.dd7b1ca4.chunk.js"
   ]
 }
